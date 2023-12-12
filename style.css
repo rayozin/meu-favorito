@@ -1,0 +1,43 @@
+.navcolor{
+    background-color: crimson;
+}
+
+.navcolor img{
+    width: 150px;
+}
+
+h1{
+    font-family: 'Young Serif', serif;
+}
+
+#principal{
+    text-align: center;
+}
+
+#fundo{
+    background-color: black;
+    color: gold;
+}
+
+footer{
+    background-color: black;
+    bottom: 0;
+    height: 210px;
+}
+
+footer a{
+    text-decoration: none;
+    color: gold;
+}
+
+footer img{
+    margin-right: 10px;
+}
+
+section{
+    margin-top: 10%;
+}
+
+#home img{
+    margin-top: 150px;
+}
